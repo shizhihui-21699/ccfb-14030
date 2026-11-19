@@ -16,3 +16,8 @@ node_modules/
 __pycache__/
 .venv/
 venv/
+
+# tsidec 构建产物与临时探针
+out/
+out-test/
+scratch/
